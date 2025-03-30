@@ -1,4 +1,5 @@
-# Assignment 3 e-Commerce and Analytics 
+# UX221Assignment3
+
 Posting products for sale and using google analitics.
 
 TLDR;
