@@ -12,11 +12,6 @@
     </url>
     <url>
         <loc>
-            http://localhost:8000/sample-page/
-        </loc>
-    </url>
-    <url>
-        <loc>
             http://localhost:8000/products/
         </loc>
     </url>
@@ -58,6 +53,31 @@
     <url>
         <loc>
             http://localhost:8000/category/uncategorized/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/tag/mindfulness/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/tag/yoga/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/tag/meditation/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/tag/wellbeing/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/tag/wellness/
         </loc>
     </url>
     <url>
