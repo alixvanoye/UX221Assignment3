@@ -22,12 +22,37 @@
     </url>
     <url>
         <loc>
-            http://localhost:8000/products/sample-product-page/
+            http://localhost:8000/products/yoga-mat/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/meditation-cushion-set/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/aromatherapy-essential-oil-kit/
         </loc>
     </url>
     <url>
         <loc>
             http://localhost:8000/category/uncategorized/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products-category/yoga-props-and-accessories/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products-category/meditation-props-and-accessories/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products-category/relaxation-tools/
         </loc>
     </url>
     <url>
