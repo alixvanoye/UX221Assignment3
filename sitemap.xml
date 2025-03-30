@@ -37,6 +37,26 @@
     </url>
     <url>
         <loc>
+            http://localhost:8000/products/singing-bowl-set-tibetan/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/yoga-wheel-for-stretching-backbends/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/lotus-incense-holder/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/guided-meditation-journal/
+        </loc>
+    </url>
+    <url>
+        <loc>
             http://localhost:8000/category/uncategorized/
         </loc>
     </url>
